@@ -1,7 +1,7 @@
 services:
   app:
     build: .
-    image: phuocsang29/nguyen-ngoc-phuoc-sang:latest
+    image: phuocsang29/nhom12-app:latest
     ports:
       - "8080:8080"
     environment:

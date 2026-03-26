@@ -1,0 +1,10 @@
+.git
+.gitignore
+pom.xml.bak
+target/
+.idea/
+.vscode/
+HELP.md
+Dockerfile
+docker-compose.yml
+.gitattributes
